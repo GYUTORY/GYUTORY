@@ -1,36 +1,7 @@
 ### Hi there 👋
 
 <!DOCTYPE html>
-<html> 
-<head>
-	<title>Backend Developer KKYUNG</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			padding: 20px;
-		}
-		h1 {
-			font-size: 32px;
-			text-align: center;
-			margin-bottom: 20px;
-		}
-		p {
-			font-size: 18px;
-			line-height: 1.5;
-			margin-bottom: 10px;
-		}
-		li {
-			font-size: 18px;
-			line-height: 1.5;
-			margin-bottom: 5px;
-			display: flex;
-			align-items: center;
-		}
-		li img {
-			margin-right: 10px;
-		}
-	</style>
-</head>
+
 <body>
 	<h1>Backend Developer Introduction</h1>
 	As a backend developer<br> I have experience working with Node.js, Express.js, and TypeORM.<br> I am dedicated to staying up-to-date with the latest technologies in order to provide the most efficient and effective solutions</strong></br>
