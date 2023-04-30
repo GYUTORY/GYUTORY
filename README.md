@@ -13,6 +13,8 @@
   <li>Backend
     <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+  </li> 
+    <li>ORM
     <img height="20" src="https://img.shields.io/badge/TypeORM-FF6347?style=for-the-badge&logo=typeorm&logoColor=white">
   </li>
   <li>Databases
