@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 
 <body>
-	<h1>Backend Developer Introduction</h1>
+	<h1>Backend Developer KKYUNG</h1>
 	As a backend developer<br> I have experience working with Node.js, Express.js, and TypeORM.<br> I am dedicated to staying up-to-date with the latest technologies in order to provide the most efficient and effective solutions</strong></br>
 <P> Technology Stack </P>
 <ul>
