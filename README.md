@@ -30,6 +30,3 @@
 
 <br>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungstar&show_icons=true&theme=radical)
-
