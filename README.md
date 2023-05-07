@@ -4,9 +4,25 @@
 
 <!DOCTYPE html>
 <html>
+<style>
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+</style>
 <body>
-	<h1>Backend Developer </h1>
-	As a backend developer<br> I have experience working with Node.js, Express.js, and TypeORM.<br> I am dedicated to staying up-to-date with the latest technologies in order to provide the most efficient and effective solutions</strong></br>
+<h1>Backend Developer KKYUNG</h1>
+<Br>
+<div class="center">
+  As a backend developer<br>
+  first-year backend developer,<br>
+  I'm currently working with the node.js express engine at my company, <br>
+  while also studying Java Spring Boot on my own. <br> 
+  I believe in continuous improvement and strive to become a better developer, <br> each day by keeping a daily record of my progress.
+</div>
+<Br>
 <P> Technology Stack </P>
 <ul>
   <li>Languages
