@@ -4,14 +4,6 @@
 
 <!DOCTYPE html>
 <html>
-<style>
-.center {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-}
-</style>
 <body>
 <h1>Backend Developer KKYUNG</h1>
 <Br>
