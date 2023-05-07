@@ -17,7 +17,6 @@
 <Br>
 <div class="center">
   As a backend developer<br>
-  first-year backend developer,<br>
   I'm currently working with the node.js express engine at my company, <br>
   while also studying Java Spring Boot on my own. <br> 
   I believe in continuous improvement and strive to become a better developer, <br> each day by keeping a daily record of my progress.
