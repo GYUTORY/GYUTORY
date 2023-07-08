@@ -8,9 +8,9 @@
 <h1>Backend Developer KKYUNG</h1>
 <Br>
 <div class="center">
-- I am a second-year back-end developer, and I am developing/deploying/operating back-end in a startup.
-- To this end, we have the ability to develop and distribute quickly, and at the same time, we have made efforts for more delicate development.
-- We actively communicate and collaborate with team members of various duties because we believe that development can be made together rather than alone.
+- I am a second-year back-end developer, and I am developing/deploying/operating back-end in a startup.<br>
+- To this end, we have the ability to develop and distribute quickly, and at the same time, we have made efforts for more delicate development.<br>
+- We actively communicate and collaborate with team members of various duties because we believe that development can be made together rather than alone.<br>
 </div>
 <Br>
 <P> Technology Stack </P>
