@@ -22,7 +22,6 @@
   <li>Backend
     <img height="20" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Fastify-202020?style=for-the-badge&logo=fastify&logoColor=white">
   </li>
   <li>Databases
     <img height="20" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -33,8 +32,7 @@
   </li>
   <li>Cloud Services
     <img height="20" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Amazon_ECS-232F3E?style=for-the-badge&logo=amazon-ecs&logoColor=white">
-    <img height="20" src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white">
+    <img height="20" src="https://img.shields.io/badge/Amazon_EC2-232F3E?style=for-the-badge&logo=amazon-ec2&logoColor=white">
     <img height="20" src="https://img.shields.io/badge/Amazon_RDS-232F3E?style=for-the-badge&logo=amazon-rds&logoColor=white">
   </li>
   <li>DevOps
