@@ -1,7 +1,7 @@
 <div align="center">
   # Backend Developer KKYUNG 👋
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGYUTORY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGYUTORY%2FGYUTORY&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 ## 🚀 About Me
@@ -40,8 +40,12 @@
 
 </div>
 
-## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:[이메일])
+## 📫 Contact
+<div align="center">
+  
+✉️ **Email**: azure0563@gmail.com
+
+</div>
 
 ---
 <div align="center">
