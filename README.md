@@ -60,6 +60,6 @@
 
 ---
 <div align="center">
-  <sub>⭐️ From KKYUNG with ❤️</sub>
+  <sub>⭐️ From GYU</sub>
 </div>
 
