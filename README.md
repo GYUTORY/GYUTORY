@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Visitor Count](https://profile-counter.glitch.me/GYUTORY/count.svg)
+[![Hits](https://hits.sh/github.com/GYUTORY.svg?view=today-total&style=for-the-badge&label=Visitors&color=007ec6&labelColor=363636)](https://hits.sh/github.com/GYUTORY/)
 
 </div>
 
