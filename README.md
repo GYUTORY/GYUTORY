@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Hits](https://hits.sh/github.com/GYUTORY.svg?view=today-total&style=for-the-badge&label=Visitors&color=007ec6&labelColor=363636)](https://hits.sh/github.com/GYUTORY/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGYUTORY&count_bg=%233D91C8&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
 
@@ -23,7 +23,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-[![Hapi.js](https://img.shields.io/badge/Hapi.js-f6941e?style=for-the-badge&logo=hapi&logoColor=white)](#)
+
 
 ### 💾 Databases & Messaging
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
