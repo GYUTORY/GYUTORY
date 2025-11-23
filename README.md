@@ -46,19 +46,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GYUTORY&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYUTORY&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-  
-![GitHub Streak](https://streak-stats.demolab.com/?user=GYUTORY&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
 
 ## 📫 Contact
 
