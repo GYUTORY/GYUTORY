@@ -1,72 +1,38 @@
-<div align="center">
-  
-# 👋 Hi
+# 강영규 · Young Gyu Kang
 
-**Backend Developer** | Building scalable and efficient server-side solutions
+백엔드 엔지니어 · 서울
 
-[![Blog](https://img.shields.io/badge/📝_Tech_Blog-YGSTUDY-0075de?style=for-the-badge&logoColor=white)](https://gyutory.github.io/YGSTUDY/) &nbsp; 🔗 [gyutory.github.io/YGSTUDY](https://gyutory.github.io/YGSTUDY/)
+Kubernetes와 인프라 자동화를 좋아합니다. 시스템을 안정적으로 운영하는 방법을 계속 찾고 있어요.
 
-[![GitHub followers](https://img.shields.io/github/followers/GYUTORY?style=social)](https://github.com/GYUTORY)
-[![GitHub stars](https://img.shields.io/github/stars/GYUTORY?style=social)](https://github.com/GYUTORY)
-
-</div>
+배운 걸 적어두는 공책 → **[gyutory.github.io/YGSTUDY](https://gyutory.github.io/YGSTUDY/)**
 
 ---
 
+### Stack
 
-## 💻 Tech Stack
+`Backend`  
+[![Backend](https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,java,spring)](https://skillicons.dev)
 
-<div align="center">
+`Data · Cache`  
+[![Data](https://skillicons.dev/icons?i=mysql,mongodb,redis,gcp)](https://skillicons.dev)
 
-### 🔨 Backend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Hapi](https://img.shields.io/badge/Hapi-f6941e?style=for-the-badge&logo=hapi&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+`Infra · DevOps`  
+[![Infra](https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,nginx,linux)](https://skillicons.dev)
 
-### 💾 Database & Cache
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🌐 Message Queues
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-
-### ☁️ DevOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🛠 Development Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</div>
+`Tools`  
+[![Tools](https://skillicons.dev/icons?i=git,github,postman,idea,vscode)](https://skillicons.dev)
 
 ---
 
-
-## 📫 Contact
-
-<div align="center">
-  
-✉️ **Email**: azure0563@gmail.com
-
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=GYUTORY&bg_color=00000000&color=62aef0&line=62aef0&point=e5e5e5&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GYUTORY&bg_color=ffffff&color=0075de&line=0075de&point=31302e&area=true&hide_border=true" alt="activity graph" />
+</picture>
 
 ---
 
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GYUTORY&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
+<sub>
 
-</div>
+[blog](https://gyutory.github.io/YGSTUDY/) · [azure0563@gmail.com](mailto:azure0563@gmail.com)
 
----
-
-<div align="center">
-  <sub>⭐️ From GYU</sub>
-</div>
+</sub>
