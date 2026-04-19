@@ -4,6 +4,8 @@
 
 **Backend Developer** | Building scalable and efficient server-side solutions
 
+[![Blog](https://img.shields.io/badge/📝_Tech_Blog-YGSTUDY-0075de?style=for-the-badge&logoColor=white)](https://gyutory.github.io/YGSTUDY/)
+
 [![GitHub followers](https://img.shields.io/github/followers/GYUTORY?style=social)](https://github.com/GYUTORY)
 [![GitHub stars](https://img.shields.io/github/stars/GYUTORY?style=social)](https://github.com/GYUTORY)
 
